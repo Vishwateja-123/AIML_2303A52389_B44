@@ -2,5 +2,6 @@ Week-1: https://github.com/Vishwateja-123/AIML_2303A52389_B44/blob/main/AI%26ML_
 Week-2: https://github.com/Vishwateja-123/AIML_2303A52389_B44/blob/main/2303A52389_Assignment_2.ipynb                                      
 Week-3: https://github.com/Vishwateja-123/AIML_2303A52389_B44/blob/main/AIML_LAB_3.ipynb                            
 Week-4: https://github.com/Vishwateja-123/AIML_2303A52389_B44/blob/main/AIML_Lab_4.ipynb                                 
-Week-5: https://github.com/Vishwateja-123/AIML_2303A52389_B44/blob/main/AIML_Lab_5.ipynb                                                 
+Week-5: https://github.com/Vishwateja-123/AIML_2303A52389_B44/blob/main/AIML_Lab_5.ipynb      
+Week-6: https://github.com/Vishwateja-123/AIML_2303A52389_B44/blob/main/AIML_Lab-6.ipynb          
 # AIML
